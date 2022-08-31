@@ -3,9 +3,9 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -192.00000000000045,
-    "scrollLeft": -134.39999999999998,
-    "zoomLevel": 0.9,
+    "scrollTop": -92.80000000000008,
+    "scrollLeft": -66.39999999999966,
+    "zoomLevel": 1,
     "show": {
       "tableComment": true,
       "columnComment": true,
@@ -43,7 +43,7 @@
   "table": {
     "tables": [
       {
-        "name": "도식 1",
+        "name": "도식1",
         "comment": "도시",
         "columns": [
           {
@@ -166,7 +166,7 @@
           "active": false,
           "left": 870.2238,
           "top": 456.8879,
-          "zIndex": 364,
+          "zIndex": 13,
           "widthName": 60,
           "widthComment": 60
         },
@@ -481,7 +481,7 @@
           "active": false,
           "left": 445.2486,
           "top": 111.7314,
-          "zIndex": 366,
+          "zIndex": 7,
           "widthName": 60,
           "widthComment": 60
         },
@@ -489,7 +489,7 @@
         "id": "9b401faf-774b-4413-8556-7ca155632ccc"
       },
       {
-        "name": "도식 2",
+        "name": "도식2",
         "comment": "국가 공용어",
         "columns": [
           {
@@ -589,7 +589,7 @@
           "active": false,
           "left": 97.7779,
           "top": 471.6478,
-          "zIndex": 368,
+          "zIndex": 11,
           "widthName": 60,
           "widthComment": 71.5703125
         },
