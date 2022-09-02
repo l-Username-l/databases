@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -176.80000000000007,
-    "scrollLeft": -180.80000000000015,
+    "scrollTop": -176.79999999999973,
+    "scrollLeft": -180.79999999999882,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -212,7 +212,7 @@
           "active": false,
           "left": 501.3569,
           "top": 200.2432,
-          "zIndex": 603,
+          "zIndex": 2,
           "widthName": 64.27685546875,
           "widthComment": 60
         },
@@ -297,7 +297,7 @@
           "active": false,
           "left": 996.0452,
           "top": 592.5992,
-          "zIndex": 705,
+          "zIndex": 5,
           "widthName": 64.34033203125,
           "widthComment": 60
         },
@@ -451,7 +451,7 @@
           "active": false,
           "left": 503.4876,
           "top": 0,
-          "zIndex": 636,
+          "zIndex": 4,
           "widthName": 64.83544921875,
           "widthComment": 60
         },
@@ -559,7 +559,7 @@
           "active": false,
           "left": 500.3557,
           "top": 425.2444,
-          "zIndex": 606,
+          "zIndex": 3,
           "widthName": 75.39794921875,
           "widthComment": 60
         },
@@ -690,7 +690,7 @@
           "active": false,
           "left": 4.7337,
           "top": 332.3995,
-          "zIndex": 565,
+          "zIndex": 1,
           "widthName": 60,
           "widthComment": 60
         },
@@ -844,7 +844,7 @@
           "active": false,
           "left": 956.6662,
           "top": 345.7551,
-          "zIndex": 707,
+          "zIndex": 8,
           "widthName": 60,
           "widthComment": 60
         },
@@ -929,7 +929,7 @@
           "active": false,
           "left": 498.2,
           "top": 594.8,
-          "zIndex": 709,
+          "zIndex": 6,
           "widthName": 60,
           "widthComment": 60
         },
@@ -1129,7 +1129,7 @@
           "active": false,
           "left": 984.1778,
           "top": 0,
-          "zIndex": 711,
+          "zIndex": 7,
           "widthName": 60,
           "widthComment": 60
         },
